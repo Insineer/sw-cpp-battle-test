@@ -80,6 +80,7 @@
 
 # CMake
 cmake-build-*/
+build/
 
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
@@ -575,4 +576,3 @@ FodyWeavers.xsd
 # End of https://www.toptal.com/developers/gitignore/api/cmake,c++,clion+all,visualstudio,qtcreator
 
 .DS_Store
-.idea
